@@ -1,0 +1,2 @@
+# community
+GoReleaser Community Resources
