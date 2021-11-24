@@ -6,7 +6,7 @@ TODO
 
 ## Code of conduct
 
-Please refer to the [GoReleaser Code of Conduct](CODE_OF_CONDUCT.md)
+Please refer to the [GoReleaser Code of Conduct](https://github.com/goreleaser/.github/blob/main/CODE_OF_CONDUCT.md)
 
 ## Participate and contribute
 
@@ -17,7 +17,7 @@ We maintain a XXX with both our community calls and release planning meeting ser
 Join us in our monthly community meetings to engage with the GoReleaser community interactively, to learn about the
 project's directions, and to discuss contributions. Meeting agendas are published in advance - watch out for open PRs on
 the community-meetings/ folder. If you have a pressing issue of common interest you'd like discussed, please let us know
-on Matrix, or simply bring it to the next meeting's Q&A.
+on [Discord](https://discord.gg/k2FZ4EBcTj), or simply bring it to the next meeting's Q&A.
 
 For more sizeable agenda items please consider speaking up on the PR of the agenda of the next meeting, or file a new PR
 if the upcoming meeting's agenda was already merged.
